@@ -17,8 +17,14 @@ A NodeJS + HapiJS(18) with Typescript Starter kit to build standard projects.
 
 **Run for Development (with restart the application when files change)**
 
-* *gulp watch*  (in first terminal)
-* *npm run watch* (in second terminal)
+***In first terminal...***
+* *gulp build* 
+* *gulp watch*  
+
+*Do not close the terminal until you end your work!*
+
+***...and then in second terminal***
+* *npm run watch* 
 
 
 **Features**
