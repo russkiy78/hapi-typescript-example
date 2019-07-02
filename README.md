@@ -1,6 +1,6 @@
-# NodeJS-Hapi TypeScript Scaffolding
+# NodeJS-Hapi TypeScript 
 
-A NodeJS + HapiJS(17) with Typescript Starter kit to build standard projects.
+A NodeJS + HapiJS(18) with Typescript Starter kit to build standard projects.
 
 **Installation**
 
